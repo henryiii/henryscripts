@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By PoolXMLCatalog.py -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+
+<File ID="98911609-E652-E511-9019-00266CFF0A88">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door05.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000070_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000070_1.ldst"/>
+   </logical>
+</File>
+<File ID="0C141B82-1753-E511-B3AC-008CFA104E64">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000075_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000075_1.ldst"/>
+   </logical>
+</File>
+<File ID="96148E39-2653-E511-A94E-6CC2173BBF10">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000077_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000077_1.ldst"/>
+   </logical>
+</File>
+<File ID="BEE2EB5C-D74D-E511-AD70-0025B3E06438">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000048_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000048_1.ldst"/>
+   </logical>
+</File>
+<File ID="8088A215-F148-E511-B58E-001B21BAC768">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000004_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000004_1.ldst"/>
+   </logical>
+</File>
+<File ID="24E7D01D-CE5F-E511-8958-02163E00F313">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000148_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000148_1.ldst"/>
+   </logical>
+</File>
+<File ID="281109CD-225F-E511-A306-0090FAA57F04">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000146_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000146_1.ldst"/>
+   </logical>
+</File>
+<File ID="4E23282D-D65D-E511-988B-001E67398D5E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000142_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000142_1.ldst"/>
+   </logical>
+</File>
+<File ID="ECCE5CAC-446F-E511-984E-002590591180">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000173_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000173_1.ldst"/>
+   </logical>
+</File>
+<File ID="44509FB6-4453-E511-B3ED-3417EBE5280A">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000082_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000082_1.ldst"/>
+   </logical>
+</File>
+<File ID="3EF5E2D5-4F5A-E511-BF66-00259059DA92">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd13.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000127_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000127_1.ldst"/>
+   </logical>
+</File>
+<File ID="F40F62EF-9960-E511-B9E5-848F69FD28AD">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000149_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000149_1.ldst"/>
+   </logical>
+</File>
+<File ID="E871F647-CD5D-E511-8E3C-00259059DB66">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd13.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000141_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000141_1.ldst"/>
+   </logical>
+</File>
+<File ID="D28462AF-0C4E-E511-AECF-6CC2173BC0B0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door06.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000060_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000060_1.ldst"/>
+   </logical>
+</File>
+<File ID="CEC8E6CB-FD5D-E511-A17E-E41D2D08DDD0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000144_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000144_1.ldst"/>
+   </logical>
+</File>
+<File ID="C04F0360-F352-E511-AFFC-0026552138B8">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000072_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000072_1.ldst"/>
+   </logical>
+</File>
+<File ID="98A7FADA-7367-E511-87EC-00259059DB18">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000164_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000164_1.ldst"/>
+   </logical>
+</File>
+<File ID="6656EA2E-6D49-E511-A4C3-001E67396761">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000028_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000028_1.ldst"/>
+   </logical>
+</File>
+<File ID="C2ACF802-D05B-E511-ADFF-089E01DC6E1A">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://fly2.grid.sara.nl:1094/pnfs/grid.sara.nl/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000133_1.ldst" se="SARA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000133_1.ldst"/>
+   </logical>
+</File>
+<File ID="DC112E35-8D62-E511-8E6D-00266CFFC13C">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000157_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000157_1.ldst"/>
+   </logical>
+</File>
+<File ID="CC7122D8-ED56-E511-9BB4-984BE1089DFA">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000102_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000102_1.ldst"/>
+   </logical>
+</File>
+<File ID="0A70438F-1750-E511-BE6D-047D7BD6DE1E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000065_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000065_1.ldst"/>
+   </logical>
+</File>
+<File ID="568AC14C-134E-E511-B2A1-001D09FDD6A5">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000062_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000062_1.ldst"/>
+   </logical>
+</File>
+<File ID="14FED949-2964-E511-9ED9-7845C4F90F07">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000161_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000161_1.ldst"/>
+   </logical>
+</File>
+<File ID="043EF743-456F-E511-8336-02163E00F411">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000168_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000168_1.ldst"/>
+   </logical>
+</File>
+<File ID="4C5277DF-2864-E511-905B-0090FAA58844">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000160_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000160_1.ldst"/>
+   </logical>
+</File>
+<File ID="BAA496AD-3455-E511-8A65-02163E016B2B">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000097_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000097_1.ldst"/>
+   </logical>
+</File>
+<File ID="723482D9-2A5A-E511-9F72-00266CFAE8D0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000122_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000122_1.ldst"/>
+   </logical>
+</File>
+<File ID="5AF34752-0C57-E511-8FFA-A0369F13FBD4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door06.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000104_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000104_1.ldst"/>
+   </logical>
+</File>
+<File ID="A81D9D80-9C57-E511-88D2-0090FAA588B4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000116_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000116_1.ldst"/>
+   </logical>
+</File>
+<File ID="3C1AAA72-2F53-E511-8AD6-0026557F0A08">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd14.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000078_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000078_1.ldst"/>
+   </logical>
+</File>
+<File ID="443F3E63-B65B-E511-A2D8-047D7BD6DEAE">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000129_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000129_1.ldst"/>
+   </logical>
+</File>
+<File ID="F44705DB-BC53-E511-986B-02163E00F37E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000079_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000079_1.ldst"/>
+   </logical>
+</File>
+<File ID="061B0D35-1F5F-E511-87DD-00266CFFC7E4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000145_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000145_1.ldst"/>
+   </logical>
+</File>
+<File ID="20479C48-275A-E511-AA84-6CC2173BBE90">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door03.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000120_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000120_1.ldst"/>
+   </logical>
+</File>
+<File ID="2AC74A8F-2D57-E511-99D5-E41D2D08DE40">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000113_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000113_1.ldst"/>
+   </logical>
+</File>
+<File ID="5C4C895A-D052-E511-9862-02163E00F68E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000067_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000067_1.ldst"/>
+   </logical>
+</File>
+<File ID="641A1FE4-1B49-E511-9D89-20CF305B058E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000010_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000010_1.ldst"/>
+   </logical>
+</File>
+<File ID="1EF16A55-D352-E511-8E45-001E67396897">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000069_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000069_1.ldst"/>
+   </logical>
+</File>
+<File ID="42CC273E-446F-E511-B362-848F69FD4C76">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000171_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000171_1.ldst"/>
+   </logical>
+</File>
+<File ID="147CA1C0-1953-E511-A863-02163E00F43F">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000076_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000076_1.ldst"/>
+   </logical>
+</File>
+<File ID="B460A739-2855-E511-918B-0090FAA578F0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000093_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000093_1.ldst"/>
+   </logical>
+</File>
+<File ID="6EBEF116-874D-E511-89D8-002590A80DE0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000036_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000036_1.ldst"/>
+   </logical>
+</File>
+<File ID="56947CB0-8F53-E511-AA0A-02163E00F52A">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000083_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000083_1.ldst"/>
+   </logical>
+</File>
+<File ID="AE01621C-1553-E511-9859-001E67397616">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000074_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000074_1.ldst"/>
+   </logical>
+</File>
+<File ID="983C860F-8849-E511-A8FD-7845C4FC3C83">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000034_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000034_1.ldst"/>
+   </logical>
+</File>
+<File ID="443835E6-4955-E511-9963-002590AC4CA6">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000099_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000099_1.ldst"/>
+   </logical>
+</File>
+<File ID="1CD66430-EA56-E511-A5B7-6CC2173BBEE0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000101_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000101_1.ldst"/>
+   </logical>
+</File>
+<File ID="C452D5E0-0C4E-E511-A05E-001E67396DB5">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000059_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000059_1.ldst"/>
+   </logical>
+</File>
+<File ID="F28DF93F-EE4D-E511-8E3F-848F69FD44B1">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000054_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000054_1.ldst"/>
+   </logical>
+</File>
+<File ID="B4489908-3455-E511-B874-0025901D4844">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000096_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000096_1.ldst"/>
+   </logical>
+</File>
+<File ID="22BB3F57-4253-E511-B264-001E67398CB9">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000080_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000080_1.ldst"/>
+   </logical>
+</File>
+<File ID="E8C4174C-2B50-E511-A2C7-047D7BD6DE60">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000055_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000055_1.ldst"/>
+   </logical>
+</File>
+<File ID="3EA9005E-7A49-E511-A35D-002590D0B05C">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000031_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000031_1.ldst"/>
+   </logical>
+</File>
+<File ID="ACD82167-4949-E511-B990-001E67396D51">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000021_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000021_1.ldst"/>
+   </logical>
+</File>
+<File ID="DE4836EE-2C55-E511-86DF-0CC47A202CB8">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000095_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000095_1.ldst"/>
+   </logical>
+</File>
+<File ID="D6F321A5-F34D-E511-B703-0CC47A50CEE6">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000056_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000056_1.ldst"/>
+   </logical>
+</File>
+<File ID="3EFECF21-E34D-E511-BEBB-0CC47A50CE0A">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000052_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000052_1.ldst"/>
+   </logical>
+</File>
+<File ID="A048D597-BC5B-E511-98C2-0025B3E05C60">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000130_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000130_1.ldst"/>
+   </logical>
+</File>
+<File ID="C4F73FF3-2455-E511-854E-047D7B881D04">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000092_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000092_1.ldst"/>
+   </logical>
+</File>
+<File ID="42094320-AE4D-E511-9EFE-00259059EAEE">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000041_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000041_1.ldst"/>
+   </logical>
+</File>
+<File ID="3C9F747A-4153-E511-837F-00259059D08E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd14.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000081_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000081_1.ldst"/>
+   </logical>
+</File>
+<File ID="1CEE8449-B562-E511-8AB5-00259059121E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000159_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000159_1.ldst"/>
+   </logical>
+</File>
+<File ID="74D5281C-8C62-E511-A36A-002590A80E1E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000155_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000155_1.ldst"/>
+   </logical>
+</File>
+<File ID="72312FF7-0355-E511-A323-0025901D4A58">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000087_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000087_1.ldst"/>
+   </logical>
+</File>
+<File ID="FAB85445-B949-E511-81A8-0025901D4B22">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000035_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000035_1.ldst"/>
+   </logical>
+</File>
+<File ID="FE88CA22-3349-E511-BFBA-6CC2173BBE80">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000017_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000017_1.ldst"/>
+   </logical>
+</File>
+<File ID="848F41F5-7A67-E511-A4FA-02163E013DB2">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000163_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000163_1.ldst"/>
+   </logical>
+</File>
+<File ID="28689270-3749-E511-9943-00266CFAEA74">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000018_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000018_1.ldst"/>
+   </logical>
+</File>
+<File ID="CC116109-0A4E-E511-BE91-00259059121E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd16.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000058_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000058_1.ldst"/>
+   </logical>
+</File>
+<File ID="1EC28B00-DB5D-E511-9D10-E0DB551085F8">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://by32-5.grid.sara.nl:1094/pnfs/grid.sara.nl/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000143_1.ldst" se="SARA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000143_1.ldst"/>
+   </logical>
+</File>
+<File ID="6C4EFB70-A05B-E511-B371-E41D2D08E0E0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000128_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000128_1.ldst"/>
+   </logical>
+</File>
+<File ID="FC9B8CC9-7D57-E511-854B-3417EBE6451F">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000115_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000115_1.ldst"/>
+   </logical>
+</File>
+<File ID="12630DE2-8D53-E511-BF53-00259059DC0E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000084_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000084_1.ldst"/>
+   </logical>
+</File>
+<File ID="DC417E7A-395A-E511-ABFD-02163E00C3BD">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000123_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000123_1.ldst"/>
+   </logical>
+</File>
+<File ID="4808778B-CD57-E511-A17E-E41D2D08DDD0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000117_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000117_1.ldst"/>
+   </logical>
+</File>
+<File ID="D8A9C782-C74D-E511-8EBE-00259059EB26">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000046_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000046_1.ldst"/>
+   </logical>
+</File>
+<File ID="E4D42A3B-446F-E511-B071-001E67E71BAA">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000170_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000170_1.ldst"/>
+   </logical>
+</File>
+<File ID="0853F9B9-D05C-E511-A87A-FACADE0000D6">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000137_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000137_1.ldst"/>
+   </logical>
+</File>
+<File ID="30D34602-4249-E511-9D80-1803730B4531">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://s35-02.grid.sara.nl:1094/pnfs/grid.sara.nl/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000020_1.ldst" se="SARA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000020_1.ldst"/>
+   </logical>
+</File>
+<File ID="7AD7846E-E04D-E511-A778-003048FEBA12">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000050_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000050_1.ldst"/>
+   </logical>
+</File>
+<File ID="DC902D19-8549-E511-91DB-0025905BA1B6">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000032_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000032_1.ldst"/>
+   </logical>
+</File>
+<File ID="182FE1DD-CD6C-E511-B857-002590DB92C4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000167_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000167_1.ldst"/>
+   </logical>
+</File>
+<File ID="AE012AF1-C34D-E511-A9FB-6CC2173BC350">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door02.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000045_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000045_1.ldst"/>
+   </logical>
+</File>
+<File ID="30706C0F-2C49-E511-94DA-0090FAA57B40">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000014_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000014_1.ldst"/>
+   </logical>
+</File>
+<File ID="82FFE164-0C49-E511-8FBC-E41D2D08DFF0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000008_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000008_1.ldst"/>
+   </logical>
+</File>
+<File ID="0801627C-6549-E511-96D9-00259073E3F2">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000027_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000027_1.ldst"/>
+   </logical>
+</File>
+<File ID="50A9EEC1-F85C-E511-BE26-F04DA275C007">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000139_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000139_1.ldst"/>
+   </logical>
+</File>
+<File ID="28937D91-175A-E511-AED7-001B21B993CC">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd16.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000119_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000119_1.ldst"/>
+   </logical>
+</File>
+<File ID="ACCDF12A-1257-E511-A844-0025907B4F86">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000106_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000106_1.ldst"/>
+   </logical>
+</File>
+<File ID="2698888D-8C62-E511-981D-180373FF94D6">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000156_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000156_1.ldst"/>
+   </logical>
+</File>
+<File ID="34C8C5EB-CC52-E511-BD3F-00259059DAAA">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000068_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000068_1.ldst"/>
+   </logical>
+</File>
+<File ID="907B91E9-6149-E511-93CB-FACADE000119">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000025_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000025_1.ldst"/>
+   </logical>
+</File>
+<File ID="F8D52FEC-385A-E511-A3F4-002590A371D4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000121_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000121_1.ldst"/>
+   </logical>
+</File>
+<File ID="4EF950BD-FC4D-E511-92A4-001B21BAC520">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd16.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000057_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000057_1.ldst"/>
+   </logical>
+</File>
+<File ID="CA579FE1-2A55-E511-8C14-002590A80DDA">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000094_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000094_1.ldst"/>
+   </logical>
+</File>
+<File ID="8AAF0042-6249-E511-95E5-0026557FA5F0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000026_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000026_1.ldst"/>
+   </logical>
+</File>
+<File ID="2478949D-5149-E511-853F-848F69FD287A">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000024_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000024_1.ldst"/>
+   </logical>
+</File>
+<File ID="806B1F86-005A-E511-B035-0CC47A18940E">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd13.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000118_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000118_1.ldst"/>
+   </logical>
+</File>
+<File ID="70925069-CD52-E511-8FBF-001B21B99124">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd13.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000066_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000066_1.ldst"/>
+   </logical>
+</File>
+<File ID="5CA109ED-E548-E511-9E93-002590D60134">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000003_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000003_1.ldst"/>
+   </logical>
+</File>
+<File ID="CC7C522E-0662-E511-9CE9-001B21B3F754">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000152_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000152_1.ldst"/>
+   </logical>
+</File>
+<File ID="10514352-2449-E511-A9DB-002590A80E08">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000013_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000013_1.ldst"/>
+   </logical>
+</File>
+<File ID="7E812342-446F-E511-90BA-0CC47A4DEDEE">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000169_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000169_1.ldst"/>
+   </logical>
+</File>
+<File ID="F8CB1237-0853-E511-A8F3-00259059D0AC">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000073_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000073_1.ldst"/>
+   </logical>
+</File>
+<File ID="765C6540-C75B-E511-A95C-0090FAA584B4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000131_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000131_1.ldst"/>
+   </logical>
+</File>
+<File ID="1E9DC1B7-3149-E511-9FE5-E41D2D08DD60">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000015_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000015_1.ldst"/>
+   </logical>
+</File>
+<File ID="D8E568BB-7449-E511-A279-00266CFFBF90">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000030_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000030_1.ldst"/>
+   </logical>
+</File>
+<File ID="3240C213-8C62-E511-B136-02163E00E80D">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000153_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000153_1.ldst"/>
+   </logical>
+</File>
+<File ID="B4FF44EF-BF5C-E511-9DF1-02163E0149E7">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000136_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000136_1.ldst"/>
+   </logical>
+</File>
+<File ID="F8C00774-3B49-E511-91B0-0090FAA58194">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000019_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000019_1.ldst"/>
+   </logical>
+</File>
+<File ID="AAE41B40-D148-E511-B8DE-00259073E4BE">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000002_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000002_1.ldst"/>
+   </logical>
+</File>
+<File ID="9A9BF4CD-0449-E511-ADEE-0CC47A4DEEFC">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000006_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000006_1.ldst"/>
+   </logical>
+</File>
+<File ID="FC55FDC0-1755-E511-8709-003048FEBA12">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000090_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000090_1.ldst"/>
+   </logical>
+</File>
+<File ID="8C6D6635-AF60-E511-8C24-0CC47A50CF78">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000151_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000151_1.ldst"/>
+   </logical>
+</File>
+<File ID="FA200848-056C-E511-9DAE-7845C4FC38ED">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000166_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000166_1.ldst"/>
+   </logical>
+</File>
+<File ID="76494E36-1D49-E511-AAD1-001B21BAD5D4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000011_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000011_1.ldst"/>
+   </logical>
+</File>
+<File ID="AE0B1EDD-5149-E511-809D-0025904B2012">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000023_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000023_1.ldst"/>
+   </logical>
+</File>
+<File ID="4CC6205C-BE4D-E511-9223-001E67C9B44C">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000044_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000044_1.ldst"/>
+   </logical>
+</File>
+<File ID="D0A2465F-3750-E511-B371-E41D2D08E0E0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000043_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000043_1.ldst"/>
+   </logical>
+</File>
+<File ID="EEAE87F0-9C4D-E511-9C45-1CC1DE055158">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door06.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000038_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000038_1.ldst"/>
+   </logical>
+</File>
+<File ID="72D2A8A0-D85C-E511-AB6F-00A0D1EE26D0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000138_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000138_1.ldst"/>
+   </logical>
+</File>
+<File ID="9E8D30F9-CB5B-E511-8077-1CC1DE052068">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door02.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000132_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000132_1.ldst"/>
+   </logical>
+</File>
+<File ID="5C459BB2-1357-E511-9027-848F69FD287A">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000107_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000107_1.ldst"/>
+   </logical>
+</File>
+<File ID="4EC82ED2-CC4D-E511-B649-3417EBE34BFD">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000047_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000047_1.ldst"/>
+   </logical>
+</File>
+<File ID="B292BE48-DF5B-E511-8F34-002481E75ED0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000135_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000135_1.ldst"/>
+   </logical>
+</File>
+<File ID="1818A5ED-2864-E511-9A01-0025901D4D6C">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000162_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000162_1.ldst"/>
+   </logical>
+</File>
+<File ID="9651D1DD-0455-E511-A140-0090FAA57D04">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000088_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000088_1.ldst"/>
+   </logical>
+</File>
+<File ID="382B7DE9-AB4D-E511-97E3-089E01DC6EE0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://s35-02.grid.sara.nl:1094/pnfs/grid.sara.nl/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000040_1.ldst" se="SARA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000040_1.ldst"/>
+   </logical>
+</File>
+<File ID="9A9CABF8-A94D-E511-91FE-3417EBE2E926">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000039_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000039_1.ldst"/>
+   </logical>
+</File>
+<File ID="D669F7D4-A868-E511-ABD0-001E67396BAD">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000165_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000165_1.ldst"/>
+   </logical>
+</File>
+<File ID="AE511057-435A-E511-A321-047D7BD6DDA4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000125_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000125_1.ldst"/>
+   </logical>
+</File>
+<File ID="2601E7FD-0557-E511-ABD5-002590591172">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd3.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000103_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000103_1.ldst"/>
+   </logical>
+</File>
+<File ID="8646FCBC-1A55-E511-AC6E-001D09FDD80D">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000091_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000091_1.ldst"/>
+   </logical>
+</File>
+<File ID="ECB014AA-4E5A-E511-BBE5-7845C4FC3A67">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000126_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000126_1.ldst"/>
+   </logical>
+</File>
+<File ID="58891AE5-375F-E511-9DC0-001E67398228">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000147_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000147_1.ldst"/>
+   </logical>
+</File>
+<File ID="EEF8AB8C-0F4E-E511-BE88-003048F0E192">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000061_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000061_1.ldst"/>
+   </logical>
+</File>
+<File ID="E0D6F73D-FC5C-E511-A64A-0025907B4F88">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000140_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000140_1.ldst"/>
+   </logical>
+</File>
+<File ID="9A3DB98E-5049-E511-BD62-0090FAA57AE0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000022_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000022_1.ldst"/>
+   </logical>
+</File>
+<File ID="B0646965-8C62-E511-9ECA-002590747DF0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000154_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000154_1.ldst"/>
+   </logical>
+</File>
+<File ID="EE780164-2757-E511-86BE-02163E0152A3">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000109_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000109_1.ldst"/>
+   </logical>
+</File>
+<File ID="107BD989-7F55-E511-9AE1-0025904B1372">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000100_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000100_1.ldst"/>
+   </logical>
+</File>
+<File ID="FEFB6B2F-7149-E511-8526-001B21B9927C">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000029_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000029_1.ldst"/>
+   </logical>
+</File>
+<File ID="461B1D72-D65B-E511-A2F4-00A0D1EE96B4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000134_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000134_1.ldst"/>
+   </logical>
+</File>
+<File ID="46CC2074-1057-E511-A8DB-047D7BD6DF34">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000105_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000105_1.ldst"/>
+   </logical>
+</File>
+<File ID="6A2C1445-2C57-E511-893F-C4346BBC9BB0">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door02.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000112_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000112_1.ldst"/>
+   </logical>
+</File>
+<File ID="B64C738B-D84D-E511-84AD-001B21B991FC">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000049_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000049_1.ldst"/>
+   </logical>
+</File>
+<File ID="BA55FE7F-355A-E511-9FC9-0090FAA57ED4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000124_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000124_1.ldst"/>
+   </logical>
+</File>
+<File ID="5869DCE7-2649-E511-A251-02163E014FD9">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000012_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000012_1.ldst"/>
+   </logical>
+</File>
+<File ID="903DDF80-446F-E511-ADFD-002590AC4CB8">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000172_1.ldst?svcClass=lhcbDst" se="RAL_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000172_1.ldst"/>
+   </logical>
+</File>
+<File ID="5813AF34-B34D-E511-AAFC-002481E14F8C">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000042_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000042_1.ldst"/>
+   </logical>
+</File>
+<File ID="F45384CE-3A57-E511-9C50-001E67398052">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000114_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000114_1.ldst"/>
+   </logical>
+</File>
+<File ID="74FCA938-0C55-E511-92C6-001E67396581">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000089_1.ldst" se="GRIDKA_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000089_1.ldst"/>
+   </logical>
+</File>
+<File ID="F0F2BE5B-F052-E511-AB17-7845C4FC39AD">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000071_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000071_1.ldst"/>
+   </logical>
+</File>
+<File ID="6C136EE7-D347-E511-A8C3-0090FAA588B4">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/MC/Upgrade/LDST/00047160/0000/00047160_00000001_1.ldst" se="CNAF_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000001_1.ldst"/>
+   </logical>
+</File>
+<File ID="1C2D4DAB-EB54-E511-985E-C4346BB28548">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door04.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000086_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000086_1.ldst"/>
+   </logical>
+</File>
+<File ID="863A5C7A-2E49-E511-B199-0CC47A50CF78">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd16.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000016_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000016_1.ldst"/>
+   </logical>
+</File>
+<File ID="1E2FFAED-904D-E511-AC43-02163E00C7C1">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000037_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000037_1.ldst"/>
+   </logical>
+</File>
+<File ID="BA0112EC-0649-E511-B40B-02163E00F3B6">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000007_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000007_1.ldst"/>
+   </logical>
+</File>
+<File ID="42CAB106-2557-E511-8519-008CFA002490">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000110_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000110_1.ldst"/>
+   </logical>
+</File>
+<File ID="98F27F29-4455-E511-A0CF-008CFA010D18">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000098_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000098_1.ldst"/>
+   </logical>
+</File>
+<File ID="CCCC9058-0C49-E511-B081-3417EBE34CAB">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://ccdcacli067.in2p3.fr:1094/pnfs/in2p3.fr/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000009_1.ldst" se="IN2P3_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000009_1.ldst"/>
+   </logical>
+</File>
+<File ID="985D8C8A-B353-E511-BE35-00265521FCA8">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd14.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000085_1.ldst" se="RRCKI_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000085_1.ldst"/>
+   </logical>
+</File>
+<File ID="22B2C08E-E84D-E511-B048-C4346BC85718">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://door06.pic.es:1094/pnfs/pic.es/data/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000053_1.ldst" se="PIC_MC-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000053_1.ldst"/>
+   </logical>
+</File>
+<File ID="CA303EF5-F648-E511-85E9-02163E00B9F9">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000005_1.ldst" se="CERN_MC-DST-EOS"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/MC/Upgrade/LDST/00047160/0000/00047160_00000005_1.ldst"/>
+   </logical>
+</File>
+
+</POOLFILECATALOG>
